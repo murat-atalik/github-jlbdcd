@@ -5,6 +5,7 @@ import Box from '@mui/material/Box';
 import ProTip from '../src/ProTip';
 import Link from '../src/Link';
 import Copyright from '../src/Copyright';
+import Button from '@mui/material/Button';
 
 export default function Index() {
   return (

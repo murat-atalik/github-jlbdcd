@@ -6,7 +6,7 @@ import Button from '@mui/material/Button';
 import ProTip from '../src/ProTip';
 import Link from '../src/Link';
 import Copyright from '../src/Copyright';
-import {}
+
 export default function About() {
   return (
     <Container maxWidth="sm">
